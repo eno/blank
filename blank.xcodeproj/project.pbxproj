@@ -14,8 +14,8 @@
 		9D78DDF6205A30F4009E5560 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D78DDF4205A30F4009E5560 /* LaunchScreen.storyboard */; };
 		9D78DE01205A30F4009E5560 /* blankTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D78DE00205A30F4009E5560 /* blankTests.swift */; };
 		9D78DE0C205A30F4009E5560 /* blankUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D78DE0B205A30F4009E5560 /* blankUITests.swift */; };
-		9D78DE1D205A3497009E5560 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D78DE1B205A3497009E5560 /* 1.png */; };
-		9D78DE1E205A3497009E5560 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D78DE1C205A3497009E5560 /* 2.png */; };
+		9D78DE21205A35EA009E5560 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D78DE1F205A35E9009E5560 /* 2.png */; };
+		9D78DE22205A35EA009E5560 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D78DE20205A35EA009E5560 /* 1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,8 +50,8 @@
 		9D78DE0B205A30F4009E5560 /* blankUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = blankUITests.swift; sourceTree = "<group>"; };
 		9D78DE0D205A30F4009E5560 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9D78DE19205A32CA009E5560 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		9D78DE1B205A3497009E5560 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1.png; path = ../../1.png; sourceTree = "<group>"; };
-		9D78DE1C205A3497009E5560 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 2.png; path = ../../2.png; sourceTree = "<group>"; };
+		9D78DE1F205A35E9009E5560 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		9D78DE20205A35EA009E5560 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,8 +135,8 @@
 		9D78DE1A205A3456009E5560 /* images */ = {
 			isa = PBXGroup;
 			children = (
-				9D78DE1B205A3497009E5560 /* 1.png */,
-				9D78DE1C205A3497009E5560 /* 2.png */,
+				9D78DE20205A35EA009E5560 /* 1.png */,
+				9D78DE1F205A35E9009E5560 /* 2.png */,
 			);
 			path = images;
 			sourceTree = "<group>";
@@ -248,11 +248,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9D78DE21205A35EA009E5560 /* 2.png in Resources */,
 				9D78DDF6205A30F4009E5560 /* LaunchScreen.storyboard in Resources */,
-				9D78DE1D205A3497009E5560 /* 1.png in Resources */,
-				9D78DE1E205A3497009E5560 /* 2.png in Resources */,
 				9D78DDF3205A30F4009E5560 /* Assets.xcassets in Resources */,
 				9D78DDF1205A30F4009E5560 /* Main.storyboard in Resources */,
+				9D78DE22205A35EA009E5560 /* 1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
