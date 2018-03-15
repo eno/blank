@@ -82,7 +82,6 @@
 		9D78DDDF205A30F4009E5560 = {
 			isa = PBXGroup;
 			children = (
-				9D78DE1A205A3456009E5560 /* images */,
 				9D78DE19205A32CA009E5560 /* README.md */,
 				9D78DDEA205A30F4009E5560 /* blank */,
 				9D78DDFF205A30F4009E5560 /* blankTests */,
@@ -104,6 +103,7 @@
 		9D78DDEA205A30F4009E5560 /* blank */ = {
 			isa = PBXGroup;
 			children = (
+				9D78DE1A205A3456009E5560 /* images */,
 				9D78DDEB205A30F4009E5560 /* AppDelegate.swift */,
 				9D78DDED205A30F4009E5560 /* ViewController.swift */,
 				9D78DDEF205A30F4009E5560 /* Main.storyboard */,
