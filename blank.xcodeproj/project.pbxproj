@@ -78,6 +78,7 @@
 		9D78DDDF205A30F4009E5560 = {
 			isa = PBXGroup;
 			children = (
+				9D78DE19205A32CA009E5560 /* README.md */,
 				9D78DDEA205A30F4009E5560 /* blank */,
 				9D78DDFF205A30F4009E5560 /* blankTests */,
 				9D78DE0A205A30F4009E5560 /* blankUITests */,
@@ -104,7 +105,6 @@
 				9D78DDF2205A30F4009E5560 /* Assets.xcassets */,
 				9D78DDF4205A30F4009E5560 /* LaunchScreen.storyboard */,
 				9D78DDF7205A30F4009E5560 /* Info.plist */,
-				9D78DE19205A32CA009E5560 /* README.md */,
 			);
 			path = blank;
 			sourceTree = "<group>";
