@@ -10,8 +10,13 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var lbTest: UILabel!
     @IBAction func btnTest(_ sender: Any) {
-        print("test")
+        if(lbTest.text == "1"){
+            lbTest.text = "2"
+        }else{
+            lbTest.text = "1"
+        }
     }
     override func viewDidLoad() {
         super.viewDidLoad()
